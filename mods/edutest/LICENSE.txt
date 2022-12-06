@@ -1,0 +1,7 @@
+Unless explicitly stated otherwise, the content of all files is licensed under
+the GNU AFFERO GENERAL PUBLIC LICENSE Version 3, which can be found in the file
+LICENSE.GNU-AGPL-3.txt .
+
+Media files are, unless explicitly stated otherwise, licensed under the
+Creative Commons CC0 1.0 Universal license, which can be found in the file
+LICENSE.CC0.txt .
