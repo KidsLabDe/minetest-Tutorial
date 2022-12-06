@@ -1,10 +1,10 @@
 LUA_SER v=2
-Sstations:T
-E
 Sstops:T
 E
-Srwt_time:N266516
+Srwt_time:N268907
 Sscheduler_queue:T
+E
+Sstations:T
 E
 E
 END_SER
