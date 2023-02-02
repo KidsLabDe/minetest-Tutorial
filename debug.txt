@@ -4,692 +4,744 @@
   Separator
 -------------
 
-2022-12-08 10:28:31: [Main]: Using world specified by --worldname on the command line
-2022-12-08 10:28:31: ERROR[Main]: The following mods could not be found: "worldedit_hud_helper"
-2022-12-08 10:28:31: WARNING[Main]: Mod we_undo at /config/.minetest/mods/we_undo:
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: WARNING[Main]: Mod worldeditadditions_core at /config/.minetest/mods/worldeditadditions/worldeditadditions_core:
-2022-12-08 10:28:31: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: ERROR[Main]: Error writing configuration file: "/config/.minetest/worlds/Tutorial/mod_storage/tpad.custom.conf"
-2022-12-08 10:28:31: ERROR[Main]: Error writing configuration file: "/config/.minetest/worlds/Tutorial/mod_storage/tpad.custom.conf"
-2022-12-08 10:28:31: WARNING[Main]: Mod spawnpoint at /config/.minetest/mods/spawnpoint:
-2022-12-08 10:28:31: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
-2022-12-08 10:28:31: WARNING[Main]: Mod display_api at /config/.minetest/mods/display_api:
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: ACTION[Main]: New font registered in font_api: metro.
-2022-12-08 10:28:31: WARNING[Main]: Mod edutest_chatcommands at /config/.minetest/mods/edutest_chatcommands:
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: WARNING[Main]: Mod rocks at /config/.minetest/mods/rocks:
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: WARNING[Main]: Mod fachwerk at /config/.minetest/mods/fachwerk:
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: WARNING[Main]: Mod facade at /config/.minetest/mods/facade:
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: WARNING[Main]: Mod worldeditadditions at /config/.minetest/mods/worldeditadditions/worldeditadditions:
-2022-12-08 10:28:31: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: WARNING[Main]: Mod worldeditadditions_farwand at /config/.minetest/mods/worldeditadditions/worldeditadditions_farwand:
-2022-12-08 10:28:31: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: WARNING[Main]: Mod worldeditadditions_commands at /config/.minetest/mods/worldeditadditions/worldeditadditions_commands:
-2022-12-08 10:28:31: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: ACTION[Main]: [WorldEditAdditions] bonemeal mod not detected: //bonemeal and //forest commands not registered (if you see this message and you're using an alternative mod that provides bonemeal, please get in touch by opening an issue)
-2022-12-08 10:28:31: ERROR[Main]: worldedit_shortcommands: original bonemeal does not exist
-2022-12-08 10:28:31: WARNING[Main]: Mod travelnet at /config/.minetest/mods/travelnet:
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: WARNING[Main]: 	description.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: WARNING[Main]: Not registering alias, item with same name is already defined: mushroom:brown_natural -> flowers:mushroom_fertile_brown
-2022-12-08 10:28:31: WARNING[Main]: Not registering alias, item with same name is already defined: mushroom:red_natural -> flowers:mushroom_fertile_red
-2022-12-08 10:28:31: WARNING[Main]: (T@3d_armor_ip)3d_armor_ip: Mod loaded but unused.E
-2022-12-08 10:28:31: WARNING[Main]: Mod angledwalls at /config/.minetest/mods/angledwalls:
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Mod abriglass at /config/.minetest/mods/abriglass:
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:31: ACTION[Main]: [advtrains] Loading...
-2022-12-08 10:28:31: ACTION[Main]: [advtrains] Loaded in 15.572ms
-2022-12-08 10:28:31: WARNING[Main]: Mod moretrains_vintage at /config/.minetest/mods/moretrains/moretrains_vintage:
-2022-12-08 10:28:31: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: WARNING[Main]: Mod moretrains_steam at /config/.minetest/mods/moretrains/moretrains_steam:
-2022-12-08 10:28:31: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: WARNING[Main]: Mod moretrains_industrial at /config/.minetest/mods/moretrains/moretrains_industrial:
-2022-12-08 10:28:31: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: WARNING[Main]: Mod moretrains_gondola at /config/.minetest/mods/moretrains/moretrains_gondola:
-2022-12-08 10:28:31: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: WARNING[Main]: Mod moretrains_japan at /config/.minetest/mods/moretrains/moretrains_japan:
-2022-12-08 10:28:31: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:31: WARNING[Main]: Mod moretrains_basic at /config/.minetest/mods/moretrains/moretrains_basic:
-2022-12-08 10:28:31: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
-2022-12-08 10:28:31: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:34: WARNING[Main]: Mod edutest at /config/.minetest/mods/edutest:
-2022-12-08 10:28:34: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:34: ACTION[Main]: [MOD]moreblocks: recipe for carts:rail production: 18 => 27
-2022-12-08 10:28:34: ACTION[Main]: [MOD]moreblocks: recipe for default:paper production: 1 => 4
-2022-12-08 10:28:34: ACTION[Main]: [MOD]moreblocks: recipe for carts:powerrail production: 18 => 27
-2022-12-08 10:28:34: ACTION[Main]: [MOD]moreblocks: recipe for carts:brakerail production: 18 => 27
-2022-12-08 10:28:34: ACTION[Main]: [MOD]moreblocks: recipe for default:sign_wall_steel production: 3 => 4
-2022-12-08 10:28:34: ACTION[Main]: [MOD]moreblocks: recipe for default:sign_wall_wood production: 3 => 4
-2022-12-08 10:28:34: WARNING[Main]: Mod morebricks at /config/.minetest/mods/morebricks:
-2022-12-08 10:28:34: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:34: WARNING[Main]: Mod cottages at /config/.minetest/mods/cottages:
-2022-12-08 10:28:34: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:glowlight_half_max -> homedecor:glowlight_half_14
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:glowlight_quarter_max -> homedecor:glowlight_quarter_14
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:glowlight_small_cube_max -> homedecor:glowlight_small_cube_14
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:plasma_lamp_max -> homedecor:plasma_lamp_14
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:ground_lantern_max -> homedecor:ground_lantern_14
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:hanging_lantern_max -> homedecor:hanging_lantern_14
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:ceiling_lantern_max -> homedecor:ceiling_lantern_14
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:lattice_lantern_large_max -> homedecor:lattice_lantern_large_14
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:lattice_lantern_small_max -> homedecor:lattice_lantern_small_14
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:desk_lamp_max -> homedecor:desk_lamp_14
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:ceiling_lamp_max -> homedecor:ceiling_lamp_14
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:table_lamp_max -> homedecor:table_lamp_14
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:standing_lamp_max -> homedecor:standing_lamp_14
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: 3dforniture:table_lamp_max -> homedecor:table_lamp_14
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:rope_light_on_floor_on -> homedecor:rope_light_on_floor_14
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:rope_light_on_ceiling_on -> homedecor:rope_light_on_ceiling_14
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:plasma_ball_on -> homedecor:plasma_ball_14
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:rope_light_on_floor_off -> homedecor:rope_light_on_floor_0
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:rope_light_on_ceiling_off -> homedecor:rope_light_on_ceiling_0
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:plasma_ball_off -> homedecor:plasma_ball_0
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Undeclared global variable "desc2" accessed at ...netest/mods/homedecor_modpack/homedecor_kitchen/init.lua:226
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Undeclared global variable "desc2" accessed at ...netest/mods/homedecor_modpack/homedecor_kitchen/init.lua:257
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_granite_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_granite has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_granite_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_granite has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_marble_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_marble has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_marble_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_marble has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_steel_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_steel has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_steel_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_steel has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_half_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_half has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_sink_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_sink has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Not registering alias, item with same name is already defined: 3dforniture:table_lamp -> homedecor:table_lamp_off
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_steel_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_steel_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_steel has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_half_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_half has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_sink_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_granite_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_granite_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_marble has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_marble_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_marble has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:34: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_sink has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:35: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_steel has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:35: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_marble_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:35: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_granite has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:35: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_granite has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:35: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:35: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_locked has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:35: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable has a palette, but not a suitable paramtype2.
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:35: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
-2022-12-08 10:28:36: ACTION[Main]: World at [/config/.minetest/worlds/Tutorial]
-2022-12-08 10:28:36: ACTION[Main]: Server for gameid="antigrief" listening on 0.0.0.0:30000.
-2022-12-08 10:28:37: ACTION[Server]: [advtrains] loading /config/.minetest/worlds/Tutorial/advtrains_version
-2022-12-08 10:28:37: ACTION[Server]: [advtrains] loading savefiles version 4 (serialize_lib)
-2022-12-08 10:28:37: ACTION[Server]: [advtrains][nodedb] read 11 node content ids. 
-2022-12-08 10:28:37: ACTION[Server]: [advtrains][nodedb] read 1565 nodes. 
-2022-12-08 10:28:37: ACTION[Server]: [advtrains][lines][rwt] Initialized railway time:  74;01;56 
-2022-12-08 10:28:37: ACTION[Server]: [advtrains][lines][scheduler] Loaded the schedule queue, 0 items. 
-2022-12-08 10:28:37: WARNING[Server]: Undeclared global variable "advtrains_itm_init" accessed at /config/.minetest/mods/advtrains/advtrains/init.lua:649
-2022-12-08 10:28:37: ACTION[Server]: [advtrains][load_all]Loaded advtrains save files 
-2022-12-08 10:28:37: WARNING[Server]: Undeclared global variable "advtrains_itm_mainloop" accessed at /config/.minetest/mods/advtrains/advtrains/init.lua:614
-2022-12-08 10:28:37: ACTION[Server]: Announcing start to servers.minetest.net
-2022-12-08 10:29:30: ACTION[Server]: Moving Gregor to static spawnpoint at (180,9,1584)
-2022-12-08 10:29:30: ACTION[Server]: Gregor [45.158.43.140] joins game. List of players: Gregor
-2022-12-08 10:29:30: WARNING[Server]: Deprecated call to get_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:105)
-2022-12-08 10:29:30: WARNING[Server]: Deprecated call to set_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:89)
-2022-12-08 10:29:30: WARNING[Server]: Deprecated call to get_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/airutils/pilot_skin_manager.lua:144)
-2022-12-08 10:29:30: WARNING[Server]: 3d_armor[set_player_armor]: Detached armor inventory is nil
-2022-12-08 10:29:36: WARNING[Server]: Undeclared global variable "locks" accessed at /config/.minetest/mods/travelnet/init.lua:674
-2022-12-08 10:29:37: ACTION[Server]: [advtrains]Saved advtrains save files, took 3 ms 
-2022-12-08 10:30:37: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
-2022-12-08 10:30:39: WARNING[Server]: Assignment to undeclared global "formspec" inside a function at /config/.minetest/mods/travelnet/init.lua:198.
-2022-12-08 10:30:41: WARNING[Server]: Undeclared global variable "locks" accessed at /config/.minetest/mods/travelnet/init.lua:208
-2022-12-08 10:31:37: ACTION[Server]: [advtrains]Saved advtrains save files, took 3 ms 
-2022-12-08 10:32:37: ACTION[Server]: [advtrains]Saved advtrains save files, took 3 ms 
-2022-12-08 10:33:37: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
-2022-12-08 10:34:37: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
-2022-12-08 10:35:37: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
-2022-12-08 10:36:37: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
-2022-12-08 10:37:22: ACTION[Server]: Gregor leaves game. List of players: 
-2022-12-08 10:37:37: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
-2022-12-08 10:38:19: ACTION[Server]: Gregor [45.158.43.140] joins game. List of players: Gregor
-2022-12-08 10:38:19: WARNING[Server]: Deprecated call to get_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:105)
-2022-12-08 10:38:19: WARNING[Server]: Deprecated call to set_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:89)
-2022-12-08 10:38:19: WARNING[Server]: Deprecated call to get_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/airutils/pilot_skin_manager.lua:144)
-2022-12-08 10:38:37: ACTION[Server]: [advtrains]Saved advtrains save files, took 3 ms 
-2022-12-08 10:39:37: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
-2022-12-08 10:40:38: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
-2022-12-08 10:41:38: ACTION[Server]: [advtrains]Saved advtrains save files, took 3 ms 
-2022-12-08 10:42:38: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
-2022-12-08 10:43:38: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
-2022-12-08 10:44:38: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
-2022-12-08 10:45:38: ACTION[Server]: [advtrains]Saved advtrains save files, took 3 ms 
-2022-12-08 10:46:18: ACTION[Server]: Gregor leaves game. List of players: 
-2022-12-08 10:46:25: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
-2022-12-08 10:46:25: ACTION[Main]: Server: Shutting down
-2022-12-08 10:46:25: ACTION[Main]: [advtrains]Saved advtrains save files, took 2 ms 
+2023-02-02 19:05:38: [Main]: Using world specified by --worldname on the command line
+2023-02-02 19:05:38: ERROR[Main]: The following mods could not be found: "spawnpoint" "worldedit_hud_helper"
+2023-02-02 19:05:38: WARNING[Main]: Mod we_undo at /config/.minetest/mods/we_undo:
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: WARNING[Main]: Mod worldeditadditions_core at /config/.minetest/mods/worldeditadditions/worldeditadditions_core:
+2023-02-02 19:05:38: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: ERROR[Main]: Error writing configuration file: "/config/.minetest/worlds/Tutorial/mod_storage/tpad.custom.conf"
+2023-02-02 19:05:38: ERROR[Main]: Error writing configuration file: "/config/.minetest/worlds/Tutorial/mod_storage/tpad.custom.conf"
+2023-02-02 19:05:38: WARNING[Main]: Mod display_api at /config/.minetest/mods/display_api:
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: ACTION[Main]: New font registered in font_api: metro.
+2023-02-02 19:05:38: WARNING[Main]: Mod edutest_chatcommands at /config/.minetest/mods/edutest_chatcommands:
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: WARNING[Main]: Mod rocks at /config/.minetest/mods/rocks:
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: WARNING[Main]: Mod fachwerk at /config/.minetest/mods/fachwerk:
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: WARNING[Main]: Mod facade at /config/.minetest/mods/facade:
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: WARNING[Main]: Mod worldeditadditions at /config/.minetest/mods/worldeditadditions/worldeditadditions:
+2023-02-02 19:05:38: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: WARNING[Main]: Mod worldeditadditions_farwand at /config/.minetest/mods/worldeditadditions/worldeditadditions_farwand:
+2023-02-02 19:05:38: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: WARNING[Main]: Mod worldeditadditions_commands at /config/.minetest/mods/worldeditadditions/worldeditadditions_commands:
+2023-02-02 19:05:38: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: ACTION[Main]: [WorldEditAdditions] bonemeal mod not detected: //bonemeal and //forest commands not registered (if you see this message and you're using an alternative mod that provides bonemeal, please get in touch by opening an issue)
+2023-02-02 19:05:38: ERROR[Main]: worldedit_shortcommands: original bonemeal does not exist
+2023-02-02 19:05:38: WARNING[Main]: Mod travelnet at /config/.minetest/mods/travelnet:
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: WARNING[Main]: 	description.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: WARNING[Main]: Not registering alias, item with same name is already defined: mushroom:brown_natural -> flowers:mushroom_fertile_brown
+2023-02-02 19:05:38: WARNING[Main]: Not registering alias, item with same name is already defined: mushroom:red_natural -> flowers:mushroom_fertile_red
+2023-02-02 19:05:38: WARNING[Main]: (T@3d_armor_ip)3d_armor_ip: Mod loaded but unused.E
+2023-02-02 19:05:38: WARNING[Main]: Mod angledwalls at /config/.minetest/mods/angledwalls:
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Mod abriglass at /config/.minetest/mods/abriglass:
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:38: ACTION[Main]: [advtrains] Loading...
+2023-02-02 19:05:38: ACTION[Main]: [advtrains] Loaded in 17.382ms
+2023-02-02 19:05:38: WARNING[Main]: Mod moretrains_vintage at /config/.minetest/mods/moretrains/moretrains_vintage:
+2023-02-02 19:05:38: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: WARNING[Main]: Mod moretrains_steam at /config/.minetest/mods/moretrains/moretrains_steam:
+2023-02-02 19:05:38: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: WARNING[Main]: Mod moretrains_industrial at /config/.minetest/mods/moretrains/moretrains_industrial:
+2023-02-02 19:05:38: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: WARNING[Main]: Mod moretrains_gondola at /config/.minetest/mods/moretrains/moretrains_gondola:
+2023-02-02 19:05:38: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: WARNING[Main]: Mod moretrains_japan at /config/.minetest/mods/moretrains/moretrains_japan:
+2023-02-02 19:05:38: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:38: WARNING[Main]: Mod moretrains_basic at /config/.minetest/mods/moretrains/moretrains_basic:
+2023-02-02 19:05:38: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
+2023-02-02 19:05:38: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:40: WARNING[Main]: Mod edutest at /config/.minetest/mods/edutest:
+2023-02-02 19:05:40: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:40: ACTION[Main]: [MOD]moreblocks: recipe for carts:powerrail production: 18 => 27
+2023-02-02 19:05:40: ACTION[Main]: [MOD]moreblocks: recipe for carts:brakerail production: 18 => 27
+2023-02-02 19:05:40: ACTION[Main]: [MOD]moreblocks: recipe for default:sign_wall_wood production: 3 => 4
+2023-02-02 19:05:40: ACTION[Main]: [MOD]moreblocks: recipe for default:paper production: 1 => 4
+2023-02-02 19:05:40: ACTION[Main]: [MOD]moreblocks: recipe for carts:rail production: 18 => 27
+2023-02-02 19:05:40: ACTION[Main]: [MOD]moreblocks: recipe for default:sign_wall_steel production: 3 => 4
+2023-02-02 19:05:40: WARNING[Main]: Mod morebricks at /config/.minetest/mods/morebricks:
+2023-02-02 19:05:40: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:40: WARNING[Main]: Mod cottages at /config/.minetest/mods/cottages:
+2023-02-02 19:05:40: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:rope_light_on_floor_on -> homedecor:rope_light_on_floor_14
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:rope_light_on_ceiling_on -> homedecor:rope_light_on_ceiling_14
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:plasma_ball_on -> homedecor:plasma_ball_14
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:rope_light_on_floor_off -> homedecor:rope_light_on_floor_0
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:rope_light_on_ceiling_off -> homedecor:rope_light_on_ceiling_0
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:plasma_ball_off -> homedecor:plasma_ball_0
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:glowlight_half_max -> homedecor:glowlight_half_14
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:glowlight_quarter_max -> homedecor:glowlight_quarter_14
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:glowlight_small_cube_max -> homedecor:glowlight_small_cube_14
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:plasma_lamp_max -> homedecor:plasma_lamp_14
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:ground_lantern_max -> homedecor:ground_lantern_14
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:hanging_lantern_max -> homedecor:hanging_lantern_14
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:ceiling_lantern_max -> homedecor:ceiling_lantern_14
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:lattice_lantern_large_max -> homedecor:lattice_lantern_large_14
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:lattice_lantern_small_max -> homedecor:lattice_lantern_small_14
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:desk_lamp_max -> homedecor:desk_lamp_14
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:ceiling_lamp_max -> homedecor:ceiling_lamp_14
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:table_lamp_max -> homedecor:table_lamp_14
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:standing_lamp_max -> homedecor:standing_lamp_14
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: 3dforniture:table_lamp_max -> homedecor:table_lamp_14
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Undeclared global variable "desc2" accessed at ...netest/mods/homedecor_modpack/homedecor_kitchen/init.lua:226
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Undeclared global variable "desc2" accessed at ...netest/mods/homedecor_modpack/homedecor_kitchen/init.lua:257
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_granite_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_granite has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_granite_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_granite has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_marble_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_marble has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_marble_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_marble has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_steel_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_steel has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_steel_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_steel has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_half_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_half has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_sink_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_sink has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Not registering alias, item with same name is already defined: 3dforniture:table_lamp -> homedecor:table_lamp_off
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_sink_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_sink has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_granite_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_granite has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_marble_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_half has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_half_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_steel has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_steel_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_steel has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_steel_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_marble has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_marble has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_marble_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_granite_locked has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_granite has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers has a palette, but not a suitable paramtype2.
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:41: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-02-02 19:05:43: ACTION[Main]: World at [/config/.minetest/worlds/Tutorial]
+2023-02-02 19:05:43: ACTION[Main]: Server for gameid="antigrief" listening on 0.0.0.0:30000.
+2023-02-02 19:05:43: ACTION[Server]: [advtrains] loading /config/.minetest/worlds/Tutorial/advtrains_version
+2023-02-02 19:05:43: ACTION[Server]: [advtrains] loading savefiles version 4 (serialize_lib)
+2023-02-02 19:05:43: ACTION[Server]: [advtrains][nodedb] read 11 node content ids. 
+2023-02-02 19:05:43: ACTION[Server]: [advtrains][nodedb] read 1565 nodes. 
+2023-02-02 19:05:43: ACTION[Server]: [advtrains][lines][rwt] Initialized railway time:  74;01;56 
+2023-02-02 19:05:43: ACTION[Server]: [advtrains][lines][scheduler] Loaded the schedule queue, 0 items. 
+2023-02-02 19:05:43: WARNING[Server]: Undeclared global variable "advtrains_itm_init" accessed at /config/.minetest/mods/advtrains/advtrains/init.lua:649
+2023-02-02 19:05:43: ACTION[Server]: [advtrains][load_all]Loaded advtrains save files 
+2023-02-02 19:05:43: WARNING[Server]: Undeclared global variable "advtrains_itm_mainloop" accessed at /config/.minetest/mods/advtrains/advtrains/init.lua:614
+2023-02-02 19:05:43: ACTION[Server]: Announcing start to servers.minetest.net
+2023-02-02 19:06:03: ACTION[Server]: Moving Gregor to static spawnpoint at (180,9,1584)
+2023-02-02 19:06:03: ACTION[Server]: Gregor [84.177.25.248] joins game. List of players: Gregor
+2023-02-02 19:06:03: WARNING[Server]: Deprecated call to get_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:105)
+2023-02-02 19:06:03: WARNING[Server]: Deprecated call to set_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:89)
+2023-02-02 19:06:03: WARNING[Server]: Deprecated call to get_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/airutils/pilot_skin_manager.lua:144)
+2023-02-02 19:06:03: WARNING[Server]: 3d_armor[set_player_armor]: Detached armor inventory is nil
+2023-02-02 19:06:43: ACTION[Server]: [advtrains]Saved advtrains save files, took 3 ms 
+2023-02-02 19:07:43: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
+2023-02-02 19:08:43: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
+2023-02-02 19:09:43: ACTION[Server]: [advtrains]Saved advtrains save files, took 3 ms 
+2023-02-02 19:10:43: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
+2023-02-02 19:11:43: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
+2023-02-02 19:11:57: WARNING[Server]: Undeclared global variable "locks" accessed at /config/.minetest/mods/travelnet/init.lua:674
+2023-02-02 19:12:44: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
+2023-02-02 19:13:19: ACTION[Server]: Gregor runs /set_owner. Owner = Gregor AreaName = Apfel StartPos = (-213,9,1894) EndPos = (-213,10,1894)
+2023-02-02 19:13:29: ACTION[Server]: /protect invoked, owner=Gregor AreaName=Apfel StartPos=(-213,9,1894) EndPos=(-213,10,1894)
+2023-02-02 19:13:37: ACTION[Server]: Gregor leaves game. List of players: 
+2023-02-02 19:13:44: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
+2023-02-02 19:14:04: ACTION[Server]: Moving Grego to static spawnpoint at (180,9,1584)
+2023-02-02 19:14:04: ACTION[Server]: Grego [84.177.25.248] joins game. List of players: Grego
+2023-02-02 19:14:04: WARNING[Server]: Deprecated call to get_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:105)
+2023-02-02 19:14:04: WARNING[Server]: Deprecated call to set_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:89)
+2023-02-02 19:14:04: WARNING[Server]: Deprecated call to get_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/airutils/pilot_skin_manager.lua:144)
+2023-02-02 19:14:04: WARNING[Server]: 3d_armor[set_player_armor]: Detached armor inventory is nil
+2023-02-02 19:14:34: ACTION[Server]: Grego tried to dig default:brick at protected position (-213,9,1894)
+2023-02-02 19:14:34: ACTION[Server]: Grego tried to dig default:brick at protected position (-213,9,1894)
+2023-02-02 19:14:37: ACTION[Server]: Grego digs default:sign_wall_steel at (-213,10,1893)
+2023-02-02 19:14:37: ACTION[Server]: Grego tried to dig default:brick at protected position (-213,10,1894)
+2023-02-02 19:14:37: ACTION[Server]: Grego tried to dig default:brick at protected position (-213,10,1894)
+2023-02-02 19:14:37: ACTION[Server]: Grego tried to dig default:brick at protected position (-213,10,1894)
+2023-02-02 19:14:38: ACTION[Server]: Grego tried to dig default:brick at protected position (-213,10,1894)
+2023-02-02 19:14:38: ACTION[Server]: Grego tried to dig default:brick at protected position (-213,10,1894)
+2023-02-02 19:14:39: ACTION[Server]: Grego tried to dig default:brick at protected position (-213,10,1894)
+2023-02-02 19:14:39: ACTION[Server]: Grego tried to dig default:brick at protected position (-213,10,1894)
+2023-02-02 19:14:42: ACTION[Server]: Grego leaves game. List of players: 
+2023-02-02 19:14:44: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
+2023-02-02 19:15:05: ACTION[Server]: Gregor [84.177.25.248] joins game. List of players: Gregor
+2023-02-02 19:15:05: WARNING[Server]: Deprecated call to get_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:105)
+2023-02-02 19:15:05: WARNING[Server]: Deprecated call to set_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:89)
+2023-02-02 19:15:05: WARNING[Server]: Deprecated call to get_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/airutils/pilot_skin_manager.lua:144)
+2023-02-02 19:15:44: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
+2023-02-02 19:16:44: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
+2023-02-02 19:17:01: ACTION[Server]: Gregor places node default:sign_wall_steel at (-213,10,1893)
+2023-02-02 19:17:06: ACTION[Server]: (T@signs_lib)FGregorE wrote "FApfelE" to sign at F(-213,10,1893)EE
+2023-02-02 19:17:42: ACTION[Server]: Gregor places node default:brick at (-213,9,1893)
+2023-02-02 19:17:44: ACTION[Server]: [advtrains]Saved advtrains save files, took 1 ms 
+2023-02-02 19:18:06: ACTION[Server]: /protect invoked, owner=Gregor AreaName=Apfel StartPos=(-213,9,1893) EndPos=(-213,10,1894)
+2023-02-02 19:18:13: ACTION[Server]: Gregor leaves game. List of players: 
+2023-02-02 19:18:35: ACTION[Server]: Grego [84.177.25.248] joins game. List of players: Grego
+2023-02-02 19:18:35: WARNING[Server]: Deprecated call to get_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:105)
+2023-02-02 19:18:35: WARNING[Server]: Deprecated call to set_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:89)
+2023-02-02 19:18:35: WARNING[Server]: Deprecated call to get_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/airutils/pilot_skin_manager.lua:144)
+2023-02-02 19:18:37: ACTION[Server]: Grego tried to dig default:sign_wall_steel at protected position (-213,10,1893)
+2023-02-02 19:18:38: ACTION[Server]: Grego tried to dig default:sign_wall_steel at protected position (-213,10,1893)
+2023-02-02 19:18:38: ACTION[Server]: Grego tried to dig default:sign_wall_steel at protected position (-213,10,1893)
+2023-02-02 19:18:38: ACTION[Server]: Grego tried to dig default:sign_wall_steel at protected position (-213,10,1893)
+2023-02-02 19:18:42: ACTION[Server]: Grego leaves game. List of players: 
+2023-02-02 19:18:44: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
+2023-02-02 19:19:10: ACTION[Server]: Gregor [84.177.25.248] joins game. List of players: Gregor
+2023-02-02 19:19:10: WARNING[Server]: Deprecated call to get_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:105)
+2023-02-02 19:19:10: WARNING[Server]: Deprecated call to set_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:89)
+2023-02-02 19:19:10: WARNING[Server]: Deprecated call to get_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/airutils/pilot_skin_manager.lua:144)
+2023-02-02 19:19:16: ACTION[Server]: Gregor places node default:sign_wall_steel at (-249,9,1884)
+2023-02-02 19:19:17: ACTION[Server]: Gregor digs default:sign_steel_yard at (-249,9,1884)
+2023-02-02 19:19:19: ACTION[Server]: Gregor places node default:brick at (-249,9,1884)
+2023-02-02 19:19:44: ACTION[Server]: [advtrains]Saved advtrains save files, took 3 ms 
+2023-02-02 19:20:44: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
+2023-02-02 19:20:45: ACTION[Server]: /protect invoked, owner=Gregor AreaName=Ameise StartPos=(-249,9,1884) EndPos=(-249,10,1885)
+2023-02-02 19:20:52: ACTION[Server]: Gregor places node default:brick at (-301,9,1841)
+2023-02-02 19:20:59: ACTION[Server]: Gregor places node default:brick at (-302,11,1841)
+2023-02-02 19:21:17: ACTION[Server]: /protect invoked, owner=Gregor AreaName=Internet StartPos=(-302,9,1841) EndPos=(-301,10,1841)
+2023-02-02 19:21:33: ACTION[Server]: Gregor places node default:brick at (-298,9,1812)
+2023-02-02 19:21:45: ACTION[Server]: [advtrains]Saved advtrains save files, took 3 ms 
+2023-02-02 19:21:52: ACTION[Server]: /protect invoked, owner=Gregor AreaName=Saege StartPos=(-299,9,1812) EndPos=(-298,10,1812)
+2023-02-02 19:22:17: ACTION[Server]: Gregor places node default:brick at (-236,9,1772)
+2023-02-02 19:22:41: ACTION[Server]: /protect invoked, owner=Gregor AreaName=Maeppchen StartPos=(-236,9,1771) EndPos=(-236,10,1772)
+2023-02-02 19:22:45: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 
+2023-02-02 19:22:58: ACTION[Server]: Gregor places node default:brick at (-181,9,1811)
+2023-02-02 19:23:18: ACTION[Server]: /protect invoked, owner=Gregor AreaName=Sandwich StartPos=(-181,9,1811) EndPos=(-180,10,1811)
+2023-02-02 19:23:23: ACTION[Server]: Gregor digs woodsoils:grass_with_leaves_2 at (-183,8,1806)
+2023-02-02 19:23:24: ACTION[Server]: Gregor digs woodsoils:dirt_with_leaves_1 at (-183,8,1805)
+2023-02-02 19:23:25: ACTION[Server]: Gregor digs woodsoils:dirt_with_leaves_1 at (-183,8,1804)
+2023-02-02 19:23:25: ACTION[Server]: Gregor digs woodsoils:dirt_with_leaves_1 at (-182,8,1804)
+2023-02-02 19:23:25: ACTION[Server]: Gregor digs woodsoils:dirt_with_leaves_1 at (-182,8,1803)
+2023-02-02 19:23:33: ACTION[Server]: Gregor places node default:brick at (-181,9,1837)
+2023-02-02 19:23:45: ACTION[Server]: [advtrains]Saved advtrains save files, took 3 ms 
+2023-02-02 19:24:14: ACTION[Server]: /protect invoked, owner=Gregor AreaName=Handy StartPos=(-181,9,1837) EndPos=(-180,10,1837)
+2023-02-02 19:24:35: ACTION[Server]: Gregor leaves game. List of players: 
+2023-02-02 19:24:45: ACTION[Server]: [advtrains]Saved advtrains save files, took 2 ms 

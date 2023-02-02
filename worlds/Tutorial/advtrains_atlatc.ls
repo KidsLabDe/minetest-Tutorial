@@ -1,14 +1,14 @@
 LUA_SER v=2
+Spcnaming:T
+E
 Sinterrupt:T
-Stimer:N264794.17501195
 Squeue:T
 E
+Stimer:N264866.95967161
 E
 Senvs:T
 E
 Sversion:N1
-Spcnaming:T
-E
 Sactive:T
 Snodes:T
 E

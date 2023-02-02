@@ -1,11 +1,11 @@
 LUA_SER v=2
-Strains:T
-E
 Swagons:T
 E
 Satc:T
 Scontrollers:T
 E
+E
+Strains:T
 E
 Sptmap:T
 E
